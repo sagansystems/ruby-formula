@@ -1,0 +1,7 @@
+
+ruby:
+  user: vagrant   # User to install rvm/ruby as
+  default: 2.1.4  # Version to set as default
+  versions:       # Versions to install
+    - 2.1.4
+    - 2.0.0
